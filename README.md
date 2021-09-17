@@ -1,7 +1,7 @@
 For this assignment I created a visualization dashboard website using visualizations from my past assignment. Specifically, I plotted weather data.
 I created individual pages for each plot and a means by which I can navigate between them. These pages contain the visualizations and their corresponding explanations. I also have a landing page, a page where I can see a comparison of all of the plots, and another page where I can view the data used to build them.
 
-The website consists of 7 pages total, including:
+The website consists of the following:
 
 A landing page containing:
 
@@ -18,13 +18,8 @@ A "Data" page that:
 
 Displays a responsive table containing the data used in the visualizations.
 
-The table is bootstrap table component. Hint
+The table is bootstrap table component. 
 
 The data was converted  to HTML. 
-
-
-The website has a navigation menu that:
-
-Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
 
 
